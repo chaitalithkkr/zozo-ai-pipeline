@@ -56,8 +56,8 @@ Windows Task Scheduler  →  orchestrate at 7:00 AM daily
 ```
 zozo-ai-pipeline/
 ├── zozo.py                  # Main pipeline script
-├── context.example.json     # User profile template (see setup)
-├── .env.example             # Environment variable template
+├── context.json     # User profile template (see setup)
+├── .env.           # Environment variable template
 ├── requirements.txt         # Python dependencies
 ├── .gitignore
 └── README.md
