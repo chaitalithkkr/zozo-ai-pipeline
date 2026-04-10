@@ -1,0 +1,6 @@
+anthropic
+gspread
+google-auth
+requests
+schedule
+python-dotenv
